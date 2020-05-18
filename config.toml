@@ -1,0 +1,4 @@
+baseURL = "https://laowang2020.github.io"
+languageCode = "zh-Hans"
+title = "My New Hugo Site"
+theme = "ananke"
